@@ -67,3 +67,11 @@ input[type="text"]:focus {
 #quote {
     transition: opacity 0.5s ease-in-out;
 }
+
+footer {
+  background-color: #1d3557;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
