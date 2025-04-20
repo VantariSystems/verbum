@@ -69,9 +69,12 @@ input[type="text"]:focus {
 }
 
 footer {
-  background-color: #1d3557;
-  color: white;
-  text-align: center;
-  padding: 20px;
-  margin-top: 40px;
+    background: #35424a;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
+
