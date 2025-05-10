@@ -1,4 +1,1 @@
-# Geradordecitas
-git add .
-git commit -m "Adicionando arquivos do projeto"
-git push origin main
+Este projeto foi desenvolvido por Rafaella Andrelino e está protegido sob Licença: CC BY-NC-ND 4.0. Clonagens não autorizadas são proibidas.
